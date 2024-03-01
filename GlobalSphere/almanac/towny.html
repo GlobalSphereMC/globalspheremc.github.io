@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+  <title>GlobalSphere Almanac</title>
+  <link href="page.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--Navbar-->
+  <ul class="navigation">
+    <li><a href="../index.html">GlobalSphere</a></li>
+    <li><a href="../info/info.html">Info</a></li>
+    <li><a href="../news/news.html">News</a></li>
+    <li><a href="almanac.html" class="active">Almanac</a></li>
+  </ul>
+  <!--Spacer-->
+  <div class="spacer">&nbsp;</div>
+  <!--Text-->
+  <div class="row">
+    <div class="col-3"><p></p>
+      <h1><a href="almanac.html">&#10094;</a></h1></div>
+    <div class="col-6">
+      <h1>GlobalSphere Almanac</h1>
+    </div>
+    <div class="col-3"></div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <h2>Towny</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-5">
+      <p><a href="https://github.com/TownyAdvanced/Towny">Towny</a> is a land claiming plugin that allows users to create towns and form nations. Each plot (chunk) can have custom permissions set. Nations are a collection of towns.</p>
+      <p>Towns and nations are the main feature of the server. They allow <a href="siegewar.html">wars/sieges</a> to happen, and let you protect your land.</p>
+      <p>If you would like to research this more in-depth, you can look at towny's general wiki <a href="https://github.com/TownyAdvanced/Towny/wiki/How-Towny-Works">here.</a></p>
+      <div class="box">
+        <h4>Table of Contents</h4>          <ol>
+          <li>Towns</li>
+          <li>Nations</li>
+          <li>Plots</li>
+          <li>History</li>
+        </ol>
+      </div>
+    </div>
+    <div class="col-7"></div>
+  </div>
+  <div class="row">
+    <div class="col-9">
+      <h3>Towns</h3>
+      <p>Towns are a group of plots (which can each have different access permissions) that are controlled by a leader (the mayor).</p>
+      <p>To create a town, go to an unclaimed chunk and do /t new &lt;townName&gt;. Do note that this costs 1000 in-game dollars.</p>
+      <p>Each day, towns are taxed $100 from their town bank for upkeep. They can also lose money if they lose a war. If a town does not have any money in it's bank, it will go bankrupt and turn into ruins (all permissions in the town are turned on). After 24 hours, anyone can do /t reclaim to pay $10000 and recover the town. After 3 days of being in ruins, the town will be permanently deleted. To prevent the town from ruining, you can do /t deposit &lt;amount&gt;. To take money out, you can do /t withdraw &lt;amount&gt;.</p>
+      <p>When you create a town, you initially only claim the chunk that you are standing in. To increase your town size, do /t claim on an adjacent chunky (costs the town bank $100) or /t claim outpost if it is not an adjacent chunk (costs $1000, and a maximum 40 chunk distance).</p>
+      <p>Do note that each town has a claim limit. This is 85 plots per resident in the town. It can be increased by joining a nation or by buying more with /t buy bonus ($200/bonus chunk)</p>
+      <p>To add people to your town, you can do /t add &lt;playerName&gt;. To remove someone from your town, you can do /t kick &lt;playerName&gt;.</p>
+      <p>To teleport back to your town's spawn, do /t spawn. You can also teleport to towns in your nation by doing /t spawn &lt;townName&gt;.</p>
+      <p>You can check out more town settings by doing /t toggle and /t set.</p>
+      <h3>Nations</h3>
+      <p>Nations are groups of towns. One of the towns is the capital. The mayor of the capital is the king of the nation.</p>
+      <p>To create a nation, do /n new &lt;name&gt;. This costs $3000. Just like towns, nations also have a bank and require upkeep to be paid. Nations have a daily upkeep of $200.</p>
+      <p>To invite a town to your nation, do /n add &lt;townName&gt;. Towns can leave a nation at any time if the mayor does /n leave.</p>
+      <p>You can add other nations as allies by doing /n ally add &lt;nationName&gt;. You can remove allies by doing /n ally remove &lt;nationName&gt;. Allies can help each other in wars.</p>
+      <p>Being in a nation allows the "nation" and "ally" permissions to be used in towns and plots.</p>
+      <h3>Plots</h3>
+      <p>Plots are chunks that can be in a town. For chunk claiming instructions, please read the "Towns" section.</p>
+      <p>Residents in a town can also claim plots as their own. To do this, do /plot forsale &lt;price&gt;. To take a plot off of the market, do /plot notforsale. While a plot is for sale, a resident can claim it by doing /plot claim. If you want to kick someone off of a plot, you can do /plot evict.</p>
+      <p>If you want non-residents to be able to claim a plot, you have to do an extra step. Do /plot set embassy, and then put the plot for sale. The claiming system is the same as before.</p>
+      <p>You can give multiple people permissions without giving them plot ownership. You can do this by doing /plot trust add &lt;username&gt;. You can remove plot trust by using /plot trust remove &lt;username&gt;. Be careful, as giving plot trust allows building and destruction permissions for the entire plot.</p>
+      <p>Do /plot set for more settings.</p>
+      <h3>History</h3>
+      <div class="box">
+        <h4>January 20th, 2023</h4>
+        <p>Towny prices were increased in accordance with inflation.</p>
+      </div>
+    </div>
+    <div class="col-3"></div>
+  </div>
+  </body>
+</html>
