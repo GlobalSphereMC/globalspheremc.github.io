@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-![logo](gs-logo.png)
+![logo](images/logo.png)
 
 # GlobalSphere
 This is the official site for the GlobalSphere Minecraft server. You can navigate between pages on the sidebar.  
