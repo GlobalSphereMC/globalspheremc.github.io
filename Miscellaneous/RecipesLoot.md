@@ -24,7 +24,7 @@ Cobbled deepslate:
 Deepslate:  
 ![Deepslate crafting](../images/crafting_deepslate.png)
 
-Deepslate ores: (shapeless, may use any ore)
+Deepslate ores: (shapeless, may use any ore)  
 ![Deepslate ore crafting](../images/crafting_deepslate_ore.png)
 
 Unlit joint:  
