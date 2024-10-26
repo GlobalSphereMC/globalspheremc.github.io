@@ -10,7 +10,7 @@ nav_order: 2
 
 *Preface:* Dear reader, I am the local brewer in my village. Brewing is a new art form, and as such this book only has vague information. I hope that one day, someone can explore more and perfect these brews to create the ultimate recipe book.  
 
-# *Recipes*
+# **Recipes**
 - Pee Beer/Beer/Fine Beer
   - Uses some multiple of 2 wheat:1 sugar ratio
   - Long brewing time
