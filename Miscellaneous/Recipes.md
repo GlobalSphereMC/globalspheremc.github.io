@@ -30,7 +30,7 @@ Deepslate ores: (shapeless, may use any ore)
 Unlit joint:  
 ![Unlit joint crafting](../images/crafting_unlit_joint.png)
 
-Netherite ingot uncrafting:  (shapeless)
+Netherite ingot uncrafting: (shapeless)  
 ![Netherite ingot uncrafting](../images/uncrafting_netherite_ingot.png)
 
 # **Custom Loot**
