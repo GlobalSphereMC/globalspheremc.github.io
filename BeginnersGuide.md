@@ -25,7 +25,7 @@ Be aware that coal, iron, gold, lapis, and diamond ores drop "nuggets" instead o
 
 # **Towny**
 ---
-You may notice that you cannot build in some places. This is because the server uses the [towny](ee) claiming system, and those areas were claimed by someone. You can either join that person's town, or create your own in a non-claimed place. You can use the [dynmap](http://globalmap.ddns.net) to assist you in this.  
+You may notice that you cannot build in some places. This is because the server uses the [towny](https://globalspheremc.github.io/Towny/) claiming system, and those areas were claimed by someone. You can either join that person's town, or create your own in a non-claimed place. You can use the [dynmap](http://globalmap.ddns.net) to assist you in this.  
 
 Once you've gotten to a place you want to settle in, you need to get funding for your town. Jobs provide income for doing tasks such as mining. Do `/jobs browse` to see the available jobs on the server. Once you've found a job you like, do `/jobs join <jobName>` to join that job. You can leave the job at any time by doing `/jobs leave <jobName>`. You can have up to 3 jobs at once.  
 
@@ -43,19 +43,19 @@ So, you're in a town, you have a stable food source, and you got some iron gear.
 
 Once you get diamonds, you might try to craft diamond gear - but STOP! To reduce grind and turn away pvp sweats, we have disabled diamond combat items like diamond armor, diamond swords, and diamond axes. However, diamond tools (pickaxe, shovel, and hoe) are allowed.  
 
-Netherite gear is also disabled (except for the netherite hoe). But we have a replacement for that: [steel](ee). With steel, you can craft steel gear and rudimentary guns.  
+Netherite gear is also disabled (except for the netherite hoe). But we have a replacement for that: [steel](https://globalspheremc.github.io/Steel.html). With steel, you can craft steel gear and rudimentary guns.  
 
 You may have noticed that steel requires ancient debris, which is found in the nether. However, you might try to light a nether portal and find out that we disabled that. So how do you get to the nether?  
 
 The GlobalSphere Intelligence Agency is not sure on the exact method to enter the nether, but there is a rumor...  
 
-If you are interested in entering the nether, you can check out the [Legend of Antarctica Claus](ee) - but that's just a rumor, right?  
+If you are interested in entering the nether, you can check out the [Legend of Antarctica Claus](https://globalspheremc.github.io/Legends/AntarcticaClaus.html) - but that's just a rumor, right?  
 
 # **Tips and Tricks**
 ---
 Here are some tips and tricks for new players on the server:  
 - Be nice and respectful to all players
-  - This prevents them from wanting to [siege](ee) you.
+  - This prevents them from wanting to [siege](https://globalspheremc.github.io/Towny/War.html) you.
 - Some items are banned to balance the game and make it more realistic to the theme. Do /gs itemban in-game to see the full list of banned items.
 - If you make your own town, join a nation. If you are in someone else's town, encourage them to join a nation if they are not already in one.
 - Join the [discord server](https://discord.gg/RnVwUZmMY3) for the latest announcements, events, and news reports.
