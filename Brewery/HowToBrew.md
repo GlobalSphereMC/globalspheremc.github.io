@@ -28,4 +28,4 @@ After distilling your brew, you sometimes need to age it. To age it, you put you
 You can use different types of barrels for aging. You can use a Minecraft barrel (2 drink slots), a small barrel, or a big barrel. Images of how to build the small and big barrels are below.  
 
 ![Small barrel](../images/small_barrel.png)
-![Big barrel](../images/small_barrel.png)
+![Big barrel](../images/big_barrel.png)
