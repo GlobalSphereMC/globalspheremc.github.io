@@ -40,3 +40,5 @@ Netherite ingot uncrafting: (shapeless)
   - 0-3 Prismarine crystals (1-5 with looting)
 - Iron golems (now copper golems in-game)
   - Same loot table as iron golems but with copper ingots
+- Sand
+  - Mining sand with a brush drops suspicious sand loot
