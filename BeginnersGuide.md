@@ -13,7 +13,7 @@ If you would like to learn more advanced mechanics, check out the other pages on
 
 # **Joining**
 ---
-This server supports Minecraft: Java Edition (premium) 1.20.6 to latest and Minecraft: Bedrock Edition on the latest version.  
+This server supports Minecraft: Java Edition (premium) 1.21.1 to latest and Minecraft: Bedrock Edition on the latest version.  
 
 If you are on Minecraft: Java Edition, enter the IP address as `globalsphere.ddns.net:25579`. If you are on Minecraft: Bedrock Edition, enter the IP address as `globalsphere.ddns.net` and the port as `25579`.  
 
