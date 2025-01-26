@@ -41,15 +41,13 @@ Towns can also join larger groups called nations. If you are interested in natio
 ---
 So, you're in a town, you have a stable food source, and you got some iron gear. What now?  
 
-Once you get diamonds, you might try to craft diamond gear - but STOP! To reduce grind and turn away pvp sweats, we have disabled diamond combat items like diamond armor, diamond swords, and diamond axes. However, diamond tools (pickaxe, shovel, and hoe) are allowed.  
+Once you get diamonds, you might try to craft diamond gear - but STOP! To reduce grind and turn away pvp sweats, we have disabled diamond combat items like diamond armor, diamond swords, and diamond axes. However, pickaxes are allowed.  
 
 Netherite gear is also disabled (except for the netherite hoe). But we have a replacement for that: [steel](https://globalspheremc.github.io/Steel.html). With steel, you can craft steel gear and rudimentary guns.  
 
-You may have noticed that steel requires ancient debris, which is found in the nether. However, you might try to light a nether portal and find out that we disabled that. So how do you get to the nether?  
+Nether portals teleport you to your bed when exiting. Don't try exiting without a bed... I warned you!
 
-The GlobalSphere Intelligence Agency is not sure on the exact method to enter the nether, but there is a rumor...  
-
-If you are interested in entering the nether, you can check out the [Legend of Antarctica Claus](https://globalspheremc.github.io/Legends/AntarcticaClaus.html) - but that's just a rumor, right?  
+If you are bored and want to do some exploring, the GlobalSphere Intelligence Agency needs help on investigating the [Legend of Antarctica Claus.](https://globalspheremc.github.io/Legends/AntarcticaClaus.html)
 
 # **Tips and Tricks**
 ---
