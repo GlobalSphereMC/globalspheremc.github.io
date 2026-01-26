@@ -30,10 +30,10 @@ Unlit joint:
 Netherite ingot uncrafting: (shapeless)  
 ![Netherite ingot uncrafting](../images/uncrafting_netherite_ingot.png)
 
-Iron to copper: (shapeless)
+Iron to copper: (shapeless)  
 ![Iron to copper transmutation](../images/iron_to_copper.png)
 
-Copper to iron: (shapeless)
+Copper to iron: (shapeless)  
 ![Copper to iron transmutation](../images/iron_to_copper.png)
 
 
