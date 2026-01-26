@@ -9,9 +9,6 @@ nav_order: 1
 ---
 Here is a non-exhaustive list of custom recipes and loot in GlobalSphere (brewery and steel recipes are not listed here):  
 
-Saddle:  
-![Saddle crafting](../images/crafting_saddle.png)
-
 Sponge:  
 ![Sponge crafting](../images/crafting_sponge.png)
 
@@ -33,12 +30,17 @@ Unlit joint:
 Netherite ingot uncrafting: (shapeless)  
 ![Netherite ingot uncrafting](../images/uncrafting_netherite_ingot.png)
 
+Iron to copper: (shapeless)
+![Iron to copper transmutation](../images/iron_to_copper.png)
+
+Copper to iron: (shapeless)
+![Copper to iron transmutation](../images/iron_to_copper.png)
+
+
 # **Custom Loot**
 ---
 - Drowned
   - 0-3 Prismarine shards (1-5 with looting)
   - 0-3 Prismarine crystals (1-5 with looting)
-- Iron golems (now copper golems in-game)
-  - Same loot table as iron golems but with copper ingots
 - Sand
   - Mining sand with a brush drops suspicious sand loot
